@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#A52A2A"  # Un rouge brique (Rappel Terres d'Av)
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#262730"
+font = "sans serif"
+
+[server]
+headless = true

@@ -1,0 +1,11 @@
+# Fichiers systèmes inutiles
+__pycache__/
+*.pyc
+.DS_Store
+
+# Environnements virtuels (si tu en as)
+venv/
+env/
+
+# Clés secrètes (ne jamais mettre ça sur GitHub !)
+.streamlit/secrets.toml
